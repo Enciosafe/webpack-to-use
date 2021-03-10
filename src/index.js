@@ -1,4 +1,5 @@
 import './css/common.css';
+import menuTemplate from '/src/templates/menu.hbs';
 
 console.log('Это index.js');
 
